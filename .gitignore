@@ -1,0 +1,29 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+
+# Maven build output
+target/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Email/export files
+*.eml
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+application-local.yml
+
+# Java compiled files
+*.class
